@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37516" started-at="2020-06-16T09:29:31 IST" finished-at="2020-06-16T09:30:08 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37516" started-at="2020-06-16T09:29:31 IST" finished-at="2020-06-16T09:30:08 IST">
+      <class name="pageobjects.TestClass">
+        <test-method status="PASS" signature="generalconfig()[pri:0, instance:pageobjects.TestClass@10bbd20a]" name="generalconfig" is-config="true" duration-ms="467" started-at="2020-06-16T09:29:30 IST" finished-at="2020-06-16T09:29:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generalconfig -->
+        <test-method status="PASS" signature="logininto()[pri:0, instance:pageobjects.TestClass@10bbd20a]" name="logininto" is-config="true" duration-ms="28653" started-at="2020-06-16T09:29:31 IST" finished-at="2020-06-16T09:30:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logininto -->
+        <test-method status="PASS" signature="objectsetup()[pri:0, instance:pageobjects.TestClass@10bbd20a]" name="objectsetup" is-config="true" duration-ms="166" started-at="2020-06-16T09:30:00 IST" finished-at="2020-06-16T09:30:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectsetup -->
+        <test-method status="PASS" signature="bmethod()[pri:0, instance:pageobjects.TestClass@10bbd20a]" name="bmethod" is-config="true" duration-ms="1" started-at="2020-06-16T09:30:00 IST" finished-at="2020-06-16T09:30:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmethod -->
+        <test-method status="PASS" signature="gettitle()[pri:0, instance:pageobjects.TestClass@10bbd20a]" name="gettitle" duration-ms="86" started-at="2020-06-16T09:30:00 IST" finished-at="2020-06-16T09:30:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gettitle -->
+        <test-method status="PASS" signature="updatestatus(org.testng.ITestResult)[pri:0, instance:pageobjects.TestClass@10bbd20a]" name="updatestatus" is-config="true" duration-ms="15" started-at="2020-06-16T09:30:00 IST" finished-at="2020-06-16T09:30:00 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=gettitle status=SUCCESS method=TestClass.gettitle()[pri:0, instance:pageobjects.TestClass@10bbd20a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updatestatus -->
+        <test-method status="PASS" signature="bmethod()[pri:0, instance:pageobjects.TestClass@10bbd20a]" name="bmethod" is-config="true" duration-ms="0" started-at="2020-06-16T09:30:00 IST" finished-at="2020-06-16T09:30:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmethod -->
+        <test-method status="PASS" signature="screenshot()[pri:0, instance:pageobjects.TestClass@10bbd20a]" name="screenshot" duration-ms="643" started-at="2020-06-16T09:30:00 IST" finished-at="2020-06-16T09:30:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+        <test-method status="PASS" signature="updatestatus(org.testng.ITestResult)[pri:0, instance:pageobjects.TestClass@10bbd20a]" name="updatestatus" is-config="true" duration-ms="1" started-at="2020-06-16T09:30:01 IST" finished-at="2020-06-16T09:30:01 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=screenshot status=SUCCESS method=TestClass.screenshot()[pri:0, instance:pageobjects.TestClass@10bbd20a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updatestatus -->
+        <test-method status="PASS" signature="bmethod()[pri:0, instance:pageobjects.TestClass@10bbd20a]" name="bmethod" is-config="true" duration-ms="2" started-at="2020-06-16T09:30:01 IST" finished-at="2020-06-16T09:30:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmethod -->
+        <test-method status="PASS" signature="login()[pri:1, instance:pageobjects.TestClass@10bbd20a]" name="login" duration-ms="606" started-at="2020-06-16T09:30:01 IST" finished-at="2020-06-16T09:30:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="updatestatus(org.testng.ITestResult)[pri:0, instance:pageobjects.TestClass@10bbd20a]" name="updatestatus" is-config="true" duration-ms="1" started-at="2020-06-16T09:30:01 IST" finished-at="2020-06-16T09:30:01 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=login status=SUCCESS method=TestClass.login()[pri:1, instance:pageobjects.TestClass@10bbd20a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updatestatus -->
+        <test-method status="PASS" signature="bmethod()[pri:0, instance:pageobjects.TestClass@10bbd20a]" name="bmethod" is-config="true" duration-ms="1" started-at="2020-06-16T09:30:01 IST" finished-at="2020-06-16T09:30:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmethod -->
+        <test-method status="PASS" signature="pass()[pri:2, instance:pageobjects.TestClass@10bbd20a]" name="pass" duration-ms="190" started-at="2020-06-16T09:30:01 IST" finished-at="2020-06-16T09:30:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pass -->
+        <test-method status="PASS" signature="updatestatus(org.testng.ITestResult)[pri:0, instance:pageobjects.TestClass@10bbd20a]" name="updatestatus" is-config="true" duration-ms="0" started-at="2020-06-16T09:30:01 IST" finished-at="2020-06-16T09:30:01 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=pass status=SUCCESS method=TestClass.pass()[pri:2, instance:pageobjects.TestClass@10bbd20a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updatestatus -->
+        <test-method status="PASS" signature="bmethod()[pri:0, instance:pageobjects.TestClass@10bbd20a]" name="bmethod" is-config="true" duration-ms="6" started-at="2020-06-16T09:30:01 IST" finished-at="2020-06-16T09:30:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmethod -->
+        <test-method status="PASS" signature="click()[pri:3, instance:pageobjects.TestClass@10bbd20a]" name="click" duration-ms="3242" started-at="2020-06-16T09:30:01 IST" finished-at="2020-06-16T09:30:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click -->
+        <test-method status="PASS" signature="updatestatus(org.testng.ITestResult)[pri:0, instance:pageobjects.TestClass@10bbd20a]" name="updatestatus" is-config="true" duration-ms="1" started-at="2020-06-16T09:30:05 IST" finished-at="2020-06-16T09:30:05 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=click status=SUCCESS method=TestClass.click()[pri:3, instance:pageobjects.TestClass@10bbd20a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updatestatus -->
+        <test-method status="PASS" signature="close()[pri:0, instance:pageobjects.TestClass@10bbd20a]" name="close" is-config="true" duration-ms="3783" started-at="2020-06-16T09:30:05 IST" finished-at="2020-06-16T09:30:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- pageobjects.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
